@@ -7,20 +7,20 @@ const config = {
 				transparent: "transparent",
 				current: "currentColor",
 				background: {
-					DEFAULT: "#feeae6",
-					dark: "",
+					DEFAULT: "#F9FAFC",
+					dark: "#161923",
 				},
 				primary: {
-					DEFAULT: "#ff3e00",
-					dark: "#ff3e00",
+					DEFAULT: "#0950F8",
+					dark: "#0950F8",
 				},
 				secondary: {
-					DEFAULT: "#02083e",
-					dark: "#feeae6",
+					DEFAULT: "#FEFEFE",
+					dark: "#282D3F",
 				},
 			},
 			fontFamily: {
-				poppins: ["Poppins", "sans-serif"],
+				primary: ["Poppins", "sans-serif"],
 			},
 		},
 	},
