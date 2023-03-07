@@ -7,7 +7,7 @@ const config = {
 				transparent: "transparent",
 				current: "currentColor",
 				background: {
-					DEFAULT: "#F9FAFC",
+					DEFAULT: "#F8FAFC",
 					dark: "#161923",
 				},
 				primary: {
@@ -15,8 +15,12 @@ const config = {
 					dark: "#0950F8",
 				},
 				secondary: {
-					DEFAULT: "#FEFEFE",
+					DEFAULT: "#FFFFFF",
 					dark: "#282D3F",
+				},
+				tertiary: {
+					DEFAULT: "#D1D5DB",
+					dark: "#9CA3AF",
 				},
 			},
 			fontFamily: {
