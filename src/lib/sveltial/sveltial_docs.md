@@ -6,6 +6,17 @@
 
 ## Input
 
+**IMPORT**
+
+```js
+import TextField from "./lib/sveltial/input/textfield/mat-border.svelte";
+```
+
+**PROPS**
+
+`label` - sets label
+`placeholder` - sets placeholder
+
 ### Button
 
 #### Simple Button

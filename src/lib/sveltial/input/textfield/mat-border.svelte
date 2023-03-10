@@ -15,7 +15,7 @@
 	};
 </script>
 
-<label class="font-primary text-tertiary focus:flex focus:flex-col relative m-1">
+<label class="font-primary text-tertiary focus:flex focus:flex-col relative m-2">
 	<span
 		class="absolute pointer-events-none w-fit h-fit left-2 pl-2 pr-2 top-3 bg-secondary transition-transform"
 		class:text-primary={in_focus}
